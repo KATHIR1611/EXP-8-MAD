@@ -162,11 +162,10 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT:
 
-![WhatsApp Image 2023-05-25 at 13 47 46](https://github.com/KATHIR1611/EXP-8-MAD/blob/main/vc%201.png)
+<img src="https://github.com/sreevarshad/EXP-8-MAD/blob/main/mmm%208.png" width=800 height=400>
 
-![WhatsApp Image 2023-05-25 at 13 47 46](https://github.com/KATHIR1611/EXP-8-MAD/blob/main/vc%202.png)
-
-![WhatsApp Image 2023-05-25 at 13 47 46](https://github.com/KATHIR1611/EXP-8-MAD/blob/main/vc%203.png)
+<img src="https://github.com/KATHIR1611/EXP-8-MAD/blob/main/vc%201.png" width=300 height=400> <img src="https://github.com/KATHIR1611/EXP-8-MAD/blob/main/vc%202.png" width=300 height=400>
+<img src="https://github.com/KATHIR1611/EXP-8-MAD/blob/main/vc%203.png" width=300 height=400>
 
 
 
